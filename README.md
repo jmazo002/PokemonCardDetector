@@ -2,7 +2,7 @@
 
 Creator: [Justin Mazon](https://github.com/JustintheBox)
 
-https://www.youtube.com/watch?v=CmKXkBg8A2w&ab_channel=JustinMazon
+Youtube Demo Link: https://www.youtube.com/watch?v=CmKXkBg8A2w&ab_channel=JustinMazon
 
 ## Project Description
 I love opening pokemon cards so what better to have a Pokemon Card Detector to check the price.
