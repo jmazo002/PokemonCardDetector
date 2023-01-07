@@ -2,7 +2,7 @@
 
 Creator: [Justin Mazon](https://github.com/JustintheBox)
 
-##Project Description
+## Project Description
   * Scans any pokemon card from a database of over 15,000 pokemon cards and determines which card you have
   * Tells you the name of the card, average sale price, and an image of the card
   * Finds perspective hash of the card and compares to a csv database from pandas library
