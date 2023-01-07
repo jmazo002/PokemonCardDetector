@@ -3,6 +3,8 @@
 Creator: [Justin Mazon](https://github.com/JustintheBox)
 
 ## Project Description
+I love opening pokemon cards so what better to have a Pokemon Card Detector to check the price.
+
 The process started by collecting a large dataset of images of Pokemon cards (15,000+). I then used this dataset to determine every perceptual hash value of each image and save it into a .csv file.
 
 Once that was done, I integrated it into a Python script that could process video frames in real-time and identify any Pokemon cards that appeared on screen by comparing its phash value to the dataset.
