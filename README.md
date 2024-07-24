@@ -5,7 +5,8 @@ Creator: [Justin Mazon](https://github.com/JustintheBox)
 Youtube Demo Link: https://www.youtube.com/watch?v=CmKXkBg8A2w&ab_channel=JustinMazon
 
 ## Project Description
-I love opening pokemon cards so what better to have a Pokemon Card Detector to check the price.
+It's winter break, and I want to further expand my coding skills. I was thinking of selling my pokemon cards so why not build an app to help me?
+I love opening pokemon cards so what better to have a dectector to check the price.
 
 The process started by collecting a large dataset of images of Pokemon cards (15,000+). I then used this dataset to determine every perceptual hash value of each image and save it into a .csv file.
 
